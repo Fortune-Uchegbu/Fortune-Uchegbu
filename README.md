@@ -27,10 +27,10 @@ A complete, 3-tier web application built to transition my skills into backend de
 *   **The Build:** A single-page React frontend connected to a Node.js/Express API server and a cloud MongoDB Atlas database.
 *   **What I Handled:** Structured the project as a monorepo, secured server paths, and set up fallback routing rules to ensure the website reloads smoothly in production without breaking.
 
-#### 🌐 [Frontend Contributions & Practice]
+#### 🌐 [Frontend Contributions & Practice](https://github.com/Fortune-Uchegbu/Interactive-Comments-Section)
 *   **IEEE UNILAG Web Team:**
 *   Collaborated with a student team using Next.js and Tailwind CSS to translate design frameworks into responsive interfaces.
-*   **Interactive Mini-Apps: (https://github.com/Fortune-Uchegbu/Interactive-Comments-Section)**
+*   **Interactive Mini-Apps:**
 *   Built dynamic projects (like API-driven link shorteners and nested comment systems) focusing on clean JavaScript data storage and smooth user feedback.
 
 ---
